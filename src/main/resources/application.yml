@@ -1,0 +1,10 @@
+#yaml 语法
+person:
+ name: jie
+ hasHair: true
+ age: 18
+ lists: [a,b,123]
+ maps: {k1: v1,k2: v2}
+ dog:
+   name: 阿黄
+   age: 2
